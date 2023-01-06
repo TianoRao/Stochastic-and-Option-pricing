@@ -1,1 +1,1 @@
-# Stochastic-and-Option-pricing
+# Stochastic Modelling
